@@ -1,0 +1,10 @@
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
+version = 1
+
+[install]
+git.pkg-path = "git"
+jq.pkg-path = "jq"
+yq.pkg-path = "yq"
+
+[options]
+systems = ["aarch64-darwin", "x86_64-darwin", "aarch64-linux", "x86_64-linux"]

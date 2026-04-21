@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright (c) Magnon Compute Corporation. All rights reserved.
 
 # vLLM Quickstart Script
 # Installs vLLM, starts server with Qwen2.5-1.5B-Instruct, and tests the API
